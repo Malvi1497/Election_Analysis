@@ -3,7 +3,7 @@
 The election audit for the US Congressional Precinct, Colarado was analysed with the help of Python.
 ## Purpose of the challenge
 The purpose of the challenge is to analyse the election data which was presented in a .csv (Comma Seperated Version) file format using Python. The analysis yeilded,
-* Total number of votes casted.
+* The total number of votes casted.
 * The voter turnout for each county.
 * The percentage of votes from each county out of the total count.
 * The county with the highest turnout.
