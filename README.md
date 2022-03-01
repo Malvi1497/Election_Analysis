@@ -15,6 +15,7 @@ The source data for the analysis contains
 * Ballot ID
 * Candidate Name
 * County Name
+
 It can be viewed here: https://github.com/Malvi1497/Election_analysis/blob/main/election_results.csv
 
 ## Election Audit Results
